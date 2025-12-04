@@ -608,5 +608,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['file'])) {
             </div>
         </div>
     </div>
+    <div style="text-align:center; margin-top:15px; opacity:0.7;">
+    <!-- Icône GPLv3 -->
+    <a href="https://www.gnu.org/licenses/gpl-3.0.fr.html" target="_blank" style="margin-right:12px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg"
+             alt="GNU GPLv3"
+             style="height:24px; width:auto; vertical-align:middle;">
+    </a>
+
+    <!-- Icône GitHub fond transparent -->
+    <a href="https://github.com/sbois" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+             alt="GitHub"
+             style="height:24px; width:auto; vertical-align:middle;">
+    </a>
+</div>
+
 </body>
 </html>
